@@ -38,7 +38,7 @@ Now build your project:
 
     dotnet build
 
-Run your tests if needed (I have a [custom configuration file](https://github.com/coverlet-coverage/coverlet/blob/b43a320ffce3bd43973ab148006de05c19c687c5/Documentation/VSTestIntegration.md) for Coverlet):
+Run your tests if needed (I have a [custom configuration file](https://github.com/willianantunes/tic-tac-toe-csharp-playground/blob/master/runsetting.xml) for Coverlet):
 
     dotnet test --settings runsetting.xml
 
